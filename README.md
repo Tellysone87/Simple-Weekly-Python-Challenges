@@ -7,8 +7,12 @@ This is a collection of weekly challenges hosted by [Data in Motion](https://www
 # Things I learned
 
 <ul>
-  <li> * First item</li>
-  <li> * Second item</li>
-  <li> * Third item</li>
-  <li> * Fourth item</li>
+  <li> Loops/ Nested Loops</li>
+  <li> User Input</li>
+  <li> Conditionals</li>
+  <li> Data Validation</li>
+  <li> Lists</li>
+  <li> Creating Functions</li>
+  <li> Data Sorting/Filtering</li>
+  <li> String Concatenation</li>
 </ul>
