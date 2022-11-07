@@ -17,4 +17,5 @@ This is a collection of weekly challenges hosted by [Data in Motion](https://www
   <li> Creating Functions</li>
   <li> Data Sorting/Filtering</li>
   <li> String Concatenation</li>
+  <li> List Comprehensions</li>
 </ul>
