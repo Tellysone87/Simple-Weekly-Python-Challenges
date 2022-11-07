@@ -4,7 +4,6 @@
 ## Description: Given a list of client emails,
 ## create a function that takes in the list as an argument
 ## and returns a new list with only the domain of each email.
-## This was inspired by an actual problem I did at work recently.
 ####################################################################################################
 
 ## Library regEx - As suggested in Challenge
