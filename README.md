@@ -3,7 +3,7 @@
 
 This is a collection of weekly challenges hosted by [Data in Motion](https://www.linkedin.com/company/data-in-motion-llc/). I really enjoy doing these challenges. IT gives me the opportunity to brush up on basic python skills. They cover different datatypes and functions each week. These files give a little insight into my coding style. I would call them little snippets. 
 
-![My code Sample!](https://github.com/Tellysone87/Simple-Weekly-Python-Challenges/blob/main/Screenshot (93).png)
+![My code Sample!](https://github.com/Tellysone87/Simple-Weekly-Python-Challenges/blob/main/Screenshot%20(93).png)
 
 
 # Things I learned
